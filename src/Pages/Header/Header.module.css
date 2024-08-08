@@ -1,0 +1,16 @@
+.headersection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
+.text{
+  width: 100%;
+}
+.text span{
+  display: inline-block;
+}
